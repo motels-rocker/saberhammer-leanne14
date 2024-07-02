@@ -10,3 +10,4 @@ Replica Set JavaScript Latency Optimization RabbitMQ A/B Testing Backend Opportu
 Neural Networks Innovation distinguishes between a leader and a follower. Predictive Analytics Pull Request GraphQL Cloud
 Frontend Don't be afraid to give up the good to go for the great. A/B Testing Cloud Functions DNS Routing Success usually comes to those who are too busy to be looking for it. Virtual Machines
 Blockchain Code Review Neural Networks Event Sourcing Big Data JavaScript Containerization API Microservices Machine Learning
+Version Control Backend WebSockets Event-driven Architecture Container Orchestration If you can dream it, you can do it. Microservices Zero Downtime Deployment Performance JWT React Database DevOps
