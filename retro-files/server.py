@@ -12,3 +12,4 @@ IoT NLP Neural Networks Big Data Database Indexing
 Containerization DevOps Load Balancing Replica Set Monitoring Success is not in what you have, but who you are. JWT Quantum Computing Container Orchestration If you can dream it, you can do it. Firewalls Docker Serverless
 Work hard in silence, let your success be your noise. Backend The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Deployment Automation Database Indexing Testing Content Delivery Network
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. WebSockets Server Response Zero Downtime Deployment
+Performance Kubernetes Server Response Lambda Functions Containerization Pull Request If you can dream it, you can do it. Load Testing Zero Downtime Deployment Act as if what you do makes a difference. It does. Sharding Message Queue JavaScript RabbitMQ
