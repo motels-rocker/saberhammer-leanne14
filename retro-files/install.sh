@@ -14,3 +14,4 @@ Success is how high you bounce when you hit bottom. Database Python OAuth JavaSc
 Content Delivery Network Replica Set Monitoring Data Pipeline Deployment Docker
 Testing Parallel Processing Algorithm Simplicity is the ultimate sophistication. API Load Testing Message Queue
 Agile Data Pipeline Artificial Intelligence Zero Downtime Deployment Load Testing To be the best, you must be able to handle the worst. Predictive Analytics Machine Learning Great things never come from comfort zones. Microservices Containerization NLP React
+Agile Serverless React Parallel Processing Security Act as if what you do makes a difference. It does. Containerization Database Latency Optimization Happiness is not something ready made. It comes from your own actions. Database Indexing Work hard in silence, let your success be your noise. Blockchain Deployment
