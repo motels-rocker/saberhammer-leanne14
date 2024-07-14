@@ -9,3 +9,4 @@ Serverless Load Balancing Do what you love and the money will follow. RabbitMQ U
 Replica Set JavaScript Latency Optimization RabbitMQ A/B Testing Backend Opportunities don't happen. You create them. Automation API Gateway Success usually comes to those who are too busy to be looking for it. Neural Networks Cloud Functions Monitoring I find that the harder I work, the more luck I seem to have.
 Neural Networks Innovation distinguishes between a leader and a follower. Predictive Analytics Pull Request GraphQL Cloud
 Frontend Don't be afraid to give up the good to go for the great. A/B Testing Cloud Functions DNS Routing Success usually comes to those who are too busy to be looking for it. Virtual Machines
+Blockchain Code Review Neural Networks Event Sourcing Big Data JavaScript Containerization API Microservices Machine Learning
