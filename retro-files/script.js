@@ -7,3 +7,4 @@ Data Pipeline Deployment Serverless Predictive Analytics Container Orchestration
 Cloud Event-driven Architecture Content Delivery Network Lambda Functions Load Balancing Distributed Systems Python Predictive Analytics Event Sourcing DevOps NLP JavaScript
 Database Indexing To be the best, you must be able to handle the worst. Backend Cache Invalidation IoT
 Dream big and dare to fail. Kafka Great things never come from comfort zones. RabbitMQ Automation Code Review DevOps Backend Difficult roads often lead to beautiful destinations.
+Database Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Database Indexing Edge Computing Virtual Machines Machine Learning GraphQL Containerization
