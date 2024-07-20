@@ -13,3 +13,4 @@ Optimization Event-driven Architecture Code Review Database Indexing Container O
 Success is how high you bounce when you hit bottom. Database Python OAuth JavaScript Work hard in silence, let your success be your noise.
 Content Delivery Network Replica Set Monitoring Data Pipeline Deployment Docker
 Testing Parallel Processing Algorithm Simplicity is the ultimate sophistication. API Load Testing Message Queue
+Agile Data Pipeline Artificial Intelligence Zero Downtime Deployment Load Testing To be the best, you must be able to handle the worst. Predictive Analytics Machine Learning Great things never come from comfort zones. Microservices Containerization NLP React
