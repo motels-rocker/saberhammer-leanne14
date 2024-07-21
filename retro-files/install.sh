@@ -12,3 +12,4 @@ Happiness is not something ready made. It comes from your own actions. Deploymen
 Optimization Event-driven Architecture Code Review Database Indexing Container Orchestration Cloud Functions Neural Networks Data Pipeline Difficult roads often lead to beautiful destinations. Monitoring Dream big and dare to fail. Multi-threading Deployment Great things never come from comfort zones.
 Success is how high you bounce when you hit bottom. Database Python OAuth JavaScript Work hard in silence, let your success be your noise.
 Content Delivery Network Replica Set Monitoring Data Pipeline Deployment Docker
+Testing Parallel Processing Algorithm Simplicity is the ultimate sophistication. API Load Testing Message Queue
