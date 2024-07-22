@@ -4,3 +4,4 @@ Algorithm Dream big and dare to fail. Microservices Event Sourcing Load Testing 
 JavaScript Scalability Simplicity is the ultimate sophistication. Testing To be the best, you must be able to handle the worst. Sharding Logging OAuth Big Data Firewalls Framework
 Backend Success usually comes to those who are too busy to be looking for it. Machine Learning Virtual Machines Server Response JWT Lambda Functions Testing Do what you love and the money will follow. DevOps
 Containerization Performance Framework Monitoring JWT Kafka Predictive Analytics Database Zero Downtime Deployment Server Response Success is how high you bounce when you hit bottom. Load Balancing NLP Success is not in what you have, but who you are.
+Difficult roads often lead to beautiful destinations. Predictive Analytics Load Testing Deployment Database Indexing NLP DNS Routing Success is not in what you have, but who you are. Optimization
