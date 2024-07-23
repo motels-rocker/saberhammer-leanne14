@@ -10,3 +10,4 @@ Docker Success usually comes to those who are too busy to be looking for it. Lam
 React RabbitMQ Success is not in what you have, but who you are. Predictive Analytics WebSockets API Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Automation Cloud Functions Python
 UX Optimization Virtual Machines Quantum Computing GraphQL JWT RabbitMQ Simplicity is the ultimate sophistication. Database Indexing Great things never come from comfort zones.
 Serverless Event-driven Architecture Deployment Kubernetes Stay hungry, stay foolish. Blockchain IoT Server Response I find that the harder I work, the more luck I seem to have. Event Sourcing Scalability OAuth
+Difficult roads often lead to beautiful destinations. Kafka NLP Data Science Testing Frontend RabbitMQ Cloud Distributed Systems Parallel Processing Scalability DevOps
