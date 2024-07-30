@@ -13,3 +13,4 @@ Content Delivery Network Logging IoT Deployment Machine Learning Dream big and d
 Dream big and dare to fail. JWT DevOps Python Neural Networks Microservices Distributed Systems Frontend
 Server Response Sharding Microservices Quantum Computing Container Orchestration Stay hungry, stay foolish. Optimization Machine Learning
 API Firewalls Frontend Kafka Message Queue The only way to do great work is to love what you do.
+Algorithm Testing Edge Computing Database Indexing RabbitMQ A/B Testing Blockchain Artificial Intelligence Pull Request Predictive Analytics Dream big and dare to fail.
