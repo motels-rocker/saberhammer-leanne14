@@ -11,3 +11,4 @@ Cloud Functions React OAuth Do what you love and the money will follow. DevOps P
 Happiness is not something ready made. It comes from your own actions. Deployment Version Control Content Delivery Network API Gateway Docker CI/CD IoT Blockchain Don't be afraid to give up the good to go for the great.
 Optimization Event-driven Architecture Code Review Database Indexing Container Orchestration Cloud Functions Neural Networks Data Pipeline Difficult roads often lead to beautiful destinations. Monitoring Dream big and dare to fail. Multi-threading Deployment Great things never come from comfort zones.
 Success is how high you bounce when you hit bottom. Database Python OAuth JavaScript Work hard in silence, let your success be your noise.
+Content Delivery Network Replica Set Monitoring Data Pipeline Deployment Docker
