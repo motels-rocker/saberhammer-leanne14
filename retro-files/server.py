@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Don't be afraid to give up
 Database CI/CD Container Orchestration Cloud Functions Success is how high you bounce when you hit bottom. JWT Containerization DNS Routing React Monitoring Database Indexing Load Testing Blockchain
 IoT NLP Neural Networks Big Data Database Indexing
 Containerization DevOps Load Balancing Replica Set Monitoring Success is not in what you have, but who you are. JWT Quantum Computing Container Orchestration If you can dream it, you can do it. Firewalls Docker Serverless
+Work hard in silence, let your success be your noise. Backend The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Deployment Automation Database Indexing Testing Content Delivery Network
