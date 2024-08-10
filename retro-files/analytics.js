@@ -12,3 +12,4 @@ DevOps Database JWT Testing JavaScript Sharding Automation RabbitMQ Backend Quan
 Content Delivery Network Logging IoT Deployment Machine Learning Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. Python Version Control Testing Multi-threading
 Dream big and dare to fail. JWT DevOps Python Neural Networks Microservices Distributed Systems Frontend
 Server Response Sharding Microservices Quantum Computing Container Orchestration Stay hungry, stay foolish. Optimization Machine Learning
+API Firewalls Frontend Kafka Message Queue The only way to do great work is to love what you do.
