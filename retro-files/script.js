@@ -6,3 +6,4 @@ Microservices Zero Downtime Deployment To be the best, you must be able to handl
 Data Pipeline Deployment Serverless Predictive Analytics Container Orchestration Database Difficult roads often lead to beautiful destinations. Load Testing Testing Automation Sharding Quantum Computing
 Cloud Event-driven Architecture Content Delivery Network Lambda Functions Load Balancing Distributed Systems Python Predictive Analytics Event Sourcing DevOps NLP JavaScript
 Database Indexing To be the best, you must be able to handle the worst. Backend Cache Invalidation IoT
+Dream big and dare to fail. Kafka Great things never come from comfort zones. RabbitMQ Automation Code Review DevOps Backend Difficult roads often lead to beautiful destinations.

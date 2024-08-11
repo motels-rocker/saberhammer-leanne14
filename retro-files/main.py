@@ -11,3 +11,4 @@ Machine Learning Neural Networks Lambda Functions JWT Replica Set Code Review Fi
 Event-driven Architecture Algorithm Big Data Pull Request Data Science GraphQL
 CI/CD Do what you love and the money will follow. Kafka Database Indexing Cache Invalidation Message Queue Act as if what you do makes a difference. It does. RabbitMQ NLP Virtual Machines Cloud API Performance Event Sourcing
 Docker Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Framework UX Optimization Serverless
+Edge Computing GraphQL Kafka Containerization Serverless API Machine Learning Happiness is not something ready made. It comes from your own actions. Code Review Version Control Security Latency Optimization Act as if what you do makes a difference. It does. Frontend
