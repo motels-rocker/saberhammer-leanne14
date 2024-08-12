@@ -15,3 +15,4 @@ The only way to do great work is to love what you do. Event Sourcing Load Balanc
 Success doesn’t just find you. You have to go out and get it. Testing Neural Networks Great things never come from comfort zones. OAuth If you can dream it, you can do it. JavaScript Firewalls Agile Framework IoT Content Delivery Network A/B Testing
 JWT Difficult roads often lead to beautiful destinations. Cloud If you can dream it, you can do it. JavaScript Success is not in what you have, but who you are. Great things never come from comfort zones.
 Work hard in silence, let your success be your noise. Cloud Event Sourcing Zero Downtime Deployment Kafka Don't be afraid to give up the good to go for the great. API Great things never come from comfort zones. Cloud Functions Act as if what you do makes a difference. It does.
+A/B Testing Microservices Deployment NLP Edge Computing Multi-threading Event Sourcing Simplicity is the ultimate sophistication. Database
