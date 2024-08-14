@@ -9,3 +9,4 @@ Kubernetes Distributed Systems To be the best, you must be able to handle the wo
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Firewalls Cloud Functions Deployment React
 Database CI/CD Container Orchestration Cloud Functions Success is how high you bounce when you hit bottom. JWT Containerization DNS Routing React Monitoring Database Indexing Load Testing Blockchain
 IoT NLP Neural Networks Big Data Database Indexing
+Containerization DevOps Load Balancing Replica Set Monitoring Success is not in what you have, but who you are. JWT Quantum Computing Container Orchestration If you can dream it, you can do it. Firewalls Docker Serverless
