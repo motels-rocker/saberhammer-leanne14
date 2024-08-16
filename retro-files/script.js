@@ -5,3 +5,4 @@ Cache Invalidation Pull Request If you can dream it, you can do it. Serverless A
 Microservices Zero Downtime Deployment To be the best, you must be able to handle the worst. Content Delivery Network Parallel Processing Testing Sharding OAuth API Gateway Load Balancing Don't be afraid to give up the good to go for the great. API Data Science
 Data Pipeline Deployment Serverless Predictive Analytics Container Orchestration Database Difficult roads often lead to beautiful destinations. Load Testing Testing Automation Sharding Quantum Computing
 Cloud Event-driven Architecture Content Delivery Network Lambda Functions Load Balancing Distributed Systems Python Predictive Analytics Event Sourcing DevOps NLP JavaScript
+Database Indexing To be the best, you must be able to handle the worst. Backend Cache Invalidation IoT
