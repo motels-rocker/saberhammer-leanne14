@@ -6,3 +6,4 @@ Kubernetes Logging Artificial Intelligence RabbitMQ Data Science Predictive Anal
 Big Data Stay hungry, stay foolish. Great things never come from comfort zones. Act as if what you do makes a difference. It does. UX Optimization Neural Networks
 Cache Invalidation Predictive Analytics Backend Monitoring Big Data Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Content Delivery Network
 Serverless Load Balancing Do what you love and the money will follow. RabbitMQ UX Optimization Artificial Intelligence Optimization GraphQL Cloud Functions Machine Learning Server Response Monitoring Event Sourcing Kafka
+Replica Set JavaScript Latency Optimization RabbitMQ A/B Testing Backend Opportunities don't happen. You create them. Automation API Gateway Success usually comes to those who are too busy to be looking for it. Neural Networks Cloud Functions Monitoring I find that the harder I work, the more luck I seem to have.
