@@ -5,3 +5,4 @@ Cache Invalidation Do what you love and the money will follow. Database Cloud Su
 Kubernetes Logging Artificial Intelligence RabbitMQ Data Science Predictive Analytics Virtual Machines Distributed Systems To be the best, you must be able to handle the worst. Pull Request Event-driven Architecture Cloud Functions Quantum Computing Algorithm
 Big Data Stay hungry, stay foolish. Great things never come from comfort zones. Act as if what you do makes a difference. It does. UX Optimization Neural Networks
 Cache Invalidation Predictive Analytics Backend Monitoring Big Data Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Content Delivery Network
+Serverless Load Balancing Do what you love and the money will follow. RabbitMQ UX Optimization Artificial Intelligence Optimization GraphQL Cloud Functions Machine Learning Server Response Monitoring Event Sourcing Kafka
