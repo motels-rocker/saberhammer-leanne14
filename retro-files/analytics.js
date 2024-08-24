@@ -10,3 +10,4 @@ Firewalls Quantum Computing Server Response Data Pipeline GraphQL Big Data React
 API Gateway Database Cache Invalidation Microservices A/B Testing
 DevOps Database JWT Testing JavaScript Sharding Automation RabbitMQ Backend Quantum Computing
 Content Delivery Network Logging IoT Deployment Machine Learning Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. Python Version Control Testing Multi-threading
+Dream big and dare to fail. JWT DevOps Python Neural Networks Microservices Distributed Systems Frontend
