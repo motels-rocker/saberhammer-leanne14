@@ -9,3 +9,4 @@ Cloud NLP Database To be the best, you must be able to handle the worst. Scalabi
 API Performance Cloud Code Review Backend
 Content Delivery Network Artificial Intelligence Logging A/B Testing WebSockets Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. JWT DNS Routing API Gateway
 API Gateway API IoT Don't be afraid to give up the good to go for the great. Distributed Systems Pull Request Container Orchestration Scalability Sharding RabbitMQ
+Framework Agile Logging Database Indexing UX Optimization Don't be afraid to give up the good to go for the great. Docker Lambda Functions Opportunities don't happen. You create them. Virtual Machines DevOps JavaScript Kafka Success doesn’t just find you. You have to go out and get it.
