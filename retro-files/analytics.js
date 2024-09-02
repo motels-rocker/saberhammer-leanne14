@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Backend Pull Request Stay 
 Firewalls Quantum Computing Server Response Data Pipeline GraphQL Big Data React Database Indexing Dream big and dare to fail. Algorithm JavaScript Multi-threading API Gateway DNS Routing
 API Gateway Database Cache Invalidation Microservices A/B Testing
 DevOps Database JWT Testing JavaScript Sharding Automation RabbitMQ Backend Quantum Computing
+Content Delivery Network Logging IoT Deployment Machine Learning Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. Python Version Control Testing Multi-threading

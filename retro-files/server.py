@@ -8,3 +8,4 @@ IoT Sharding Zero Downtime Deployment Edge Computing Event Sourcing Deployment M
 Kubernetes Distributed Systems To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. API Gateway Event Sourcing Success is how high you bounce when you hit bottom. Server Response Optimization
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Firewalls Cloud Functions Deployment React
 Database CI/CD Container Orchestration Cloud Functions Success is how high you bounce when you hit bottom. JWT Containerization DNS Routing React Monitoring Database Indexing Load Testing Blockchain
+IoT NLP Neural Networks Big Data Database Indexing
