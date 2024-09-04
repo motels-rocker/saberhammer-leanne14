@@ -9,3 +9,4 @@ GraphQL RabbitMQ Data Pipeline NLP Neural Networks Simplicity is the ultimate so
 Content Delivery Network Latency Optimization Success doesn’t just find you. You have to go out and get it. Testing Code Review To be the best, you must be able to handle the worst. Predictive Analytics UX Optimization Cache Invalidation Cloud Great things never come from comfort zones. Virtual Machines Optimization API Gateway
 Machine Learning Neural Networks Lambda Functions JWT Replica Set Code Review Firewalls Version Control Cloud Functions Predictive Analytics If you can dream it, you can do it. Logging Latency Optimization Simplicity is the ultimate sophistication.
 Event-driven Architecture Algorithm Big Data Pull Request Data Science GraphQL
+CI/CD Do what you love and the money will follow. Kafka Database Indexing Cache Invalidation Message Queue Act as if what you do makes a difference. It does. RabbitMQ NLP Virtual Machines Cloud API Performance Event Sourcing
