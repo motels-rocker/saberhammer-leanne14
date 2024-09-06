@@ -8,3 +8,4 @@ Edge Computing DevOps Deployment Containerization Virtual Machines Load Balancin
 Work hard in silence, let your success be your noise. Backend Pull Request Stay hungry, stay foolish. Cloud Functions Success usually comes to those who are too busy to be looking for it. JavaScript Do what you love and the money will follow.
 Firewalls Quantum Computing Server Response Data Pipeline GraphQL Big Data React Database Indexing Dream big and dare to fail. Algorithm JavaScript Multi-threading API Gateway DNS Routing
 API Gateway Database Cache Invalidation Microservices A/B Testing
+DevOps Database JWT Testing JavaScript Sharding Automation RabbitMQ Backend Quantum Computing
