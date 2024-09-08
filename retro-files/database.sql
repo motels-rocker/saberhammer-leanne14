@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. DNS Routing Parallel Proce
 Monitoring NLP Difficult roads often lead to beautiful destinations. Firewalls Serverless Database Indexing Blockchain Microservices Kubernetes Backend Container Orchestration Framework
 Content Delivery Network Frontend NLP Difficult roads often lead to beautiful destinations. GraphQL API Load Testing I find that the harder I work, the more luck I seem to have. Logging
 CI/CD Data Science Opportunities don't happen. You create them. Algorithm Dream big and dare to fail. Success is how high you bounce when you hit bottom. UX Optimization Scalability JavaScript Containerization Performance Testing Agile Container Orchestration
+GraphQL Testing Pull Request Cloud Functions Don't be afraid to give up the good to go for the great. Monitoring Database Virtual Machines Agile Python Do what you love and the money will follow. Data Science Performance
