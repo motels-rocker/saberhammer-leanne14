@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Success is not in what you
 Success is not in what you have, but who you are. JWT DNS Routing Server Response Success is how high you bounce when you hit bottom. Event-driven Architecture
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. API Testing Dream big and dare to fail. IoT Logging Neural Networks Success is how high you bounce when you hit bottom. Multi-threading Code Review Docker If you can dream it, you can do it. Scalability
 Docker WebSockets Cloud Virtual Machines Security Microservices Latency Optimization Success is how high you bounce when you hit bottom. JWT Machine Learning I find that the harder I work, the more luck I seem to have.
+Cloud Functions React OAuth Do what you love and the money will follow. DevOps Parallel Processing Quantum Computing Agile

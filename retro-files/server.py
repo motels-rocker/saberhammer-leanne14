@@ -7,3 +7,4 @@ Content Delivery Network Testing Distributed Systems Event Sourcing JavaScript L
 IoT Sharding Zero Downtime Deployment Edge Computing Event Sourcing Deployment Message Queue Database Indexing Happiness is not something ready made. It comes from your own actions. Multi-threading Cache Invalidation Version Control Optimization Frontend
 Kubernetes Distributed Systems To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. API Gateway Event Sourcing Success is how high you bounce when you hit bottom. Server Response Optimization
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Firewalls Cloud Functions Deployment React
+Database CI/CD Container Orchestration Cloud Functions Success is how high you bounce when you hit bottom. JWT Containerization DNS Routing React Monitoring Database Indexing Load Testing Blockchain
