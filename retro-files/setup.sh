@@ -6,3 +6,4 @@ CI/CD Message Queue Lambda Functions Framework Logging Container Orchestration
 Parallel Processing Algorithm Machine Learning JavaScript CI/CD Difficult roads often lead to beautiful destinations. Lambda Functions RabbitMQ
 Parallel Processing React Automation Opportunities don't happen. You create them. Pull Request Cloud Security Scalability Backend Containerization Innovation distinguishes between a leader and a follower. Content Delivery Network Edge Computing JWT
 Cloud NLP Database To be the best, you must be able to handle the worst. Scalability RabbitMQ
+API Performance Cloud Code Review Backend

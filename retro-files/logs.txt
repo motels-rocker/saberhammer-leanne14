@@ -11,3 +11,4 @@ Data Pipeline Automation Database Indexing Do what you love and the money will f
 Blockchain API Great things never come from comfort zones. Firewalls Pull Request Predictive Analytics
 Monitoring Data Pipeline Stay hungry, stay foolish. Lambda Functions API
 Do what you love and the money will follow. Firewalls Replica Set GraphQL Load Balancing
+The only way to do great work is to love what you do. Event Sourcing Load Balancing Innovation distinguishes between a leader and a follower. OAuth Sharding Security Machine Learning Pull Request
