@@ -3,3 +3,4 @@ Cloud Functions Load Testing Big Data Optimization Neural Networks WebSockets Bl
 Algorithm Dream big and dare to fail. Microservices Event Sourcing Load Testing API Quantum Computing The only way to do great work is to love what you do.
 JavaScript Scalability Simplicity is the ultimate sophistication. Testing To be the best, you must be able to handle the worst. Sharding Logging OAuth Big Data Firewalls Framework
 Backend Success usually comes to those who are too busy to be looking for it. Machine Learning Virtual Machines Server Response JWT Lambda Functions Testing Do what you love and the money will follow. DevOps
+Containerization Performance Framework Monitoring JWT Kafka Predictive Analytics Database Zero Downtime Deployment Server Response Success is how high you bounce when you hit bottom. Load Balancing NLP Success is not in what you have, but who you are.
