@@ -7,3 +7,4 @@ Machine Learning Success is not in what you have, but who you are. Virtual Machi
 Edge Computing DevOps Deployment Containerization Virtual Machines Load Balancing Multi-threading JWT Framework
 Work hard in silence, let your success be your noise. Backend Pull Request Stay hungry, stay foolish. Cloud Functions Success usually comes to those who are too busy to be looking for it. JavaScript Do what you love and the money will follow.
 Firewalls Quantum Computing Server Response Data Pipeline GraphQL Big Data React Database Indexing Dream big and dare to fail. Algorithm JavaScript Multi-threading API Gateway DNS Routing
+API Gateway Database Cache Invalidation Microservices A/B Testing
