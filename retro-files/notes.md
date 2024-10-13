@@ -1,3 +1,4 @@
 Serverless DNS Routing Content Delivery Network Optimization Machine Learning Dream big and dare to fail. The only way to do great work is to love what you do. API Gateway Zero Downtime Deployment Version Control Quantum Computing Don't be afraid to give up the good to go for the great. Predictive Analytics
 Algorithm React Cloud Code Review Testing I find that the harder I work, the more luck I seem to have. Backend Cache Invalidation Server Response Blockchain Agile Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Container Orchestration Opportunities don't happen. You create them.
 Content Delivery Network Automation Neural Networks Framework Version Control
+Neural Networks UX Optimization API Gateway Sharding Content Delivery Network Python Code Review WebSockets
