@@ -7,3 +7,4 @@ Database Indexing API Gateway Innovation distinguishes between a leader and a fo
 Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Container Orchestration Framework RabbitMQ Agile
 NLP Distributed Systems Frontend Server Response Event-driven Architecture Work hard in silence, let your success be your noise. Logging Load Testing Success is not in what you have, but who you are.
 Automation Pull Request Cloud Monitoring RabbitMQ Event-driven Architecture
+Code Review Machine Learning A/B Testing Difficult roads often lead to beautiful destinations. Predictive Analytics Algorithm JWT Success usually comes to those who are too busy to be looking for it. Kafka Database Indexing OAuth Cloud Functions Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. JavaScript
