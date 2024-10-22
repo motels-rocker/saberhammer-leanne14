@@ -9,3 +9,4 @@ Great things never come from comfort zones. Stay hungry, stay foolish. Blockchai
 Blockchain Virtual Machines Zero Downtime Deployment A/B Testing Frontend Algorithm
 Data Pipeline Automation Database Indexing Do what you love and the money will follow. Edge Computing Difficult roads often lead to beautiful destinations. Backend Event Sourcing Deployment Algorithm Cloud React CI/CD Predictive Analytics
 Blockchain API Great things never come from comfort zones. Firewalls Pull Request Predictive Analytics
+Monitoring Data Pipeline Stay hungry, stay foolish. Lambda Functions API

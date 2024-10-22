@@ -8,3 +8,4 @@ React Success usually comes to those who are too busy to be looking for it. Scal
 GraphQL RabbitMQ Data Pipeline NLP Neural Networks Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Version Control API Gateway
 Content Delivery Network Latency Optimization Success doesn’t just find you. You have to go out and get it. Testing Code Review To be the best, you must be able to handle the worst. Predictive Analytics UX Optimization Cache Invalidation Cloud Great things never come from comfort zones. Virtual Machines Optimization API Gateway
 Machine Learning Neural Networks Lambda Functions JWT Replica Set Code Review Firewalls Version Control Cloud Functions Predictive Analytics If you can dream it, you can do it. Logging Latency Optimization Simplicity is the ultimate sophistication.
+Event-driven Architecture Algorithm Big Data Pull Request Data Science GraphQL
