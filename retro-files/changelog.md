@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Multi-threading Artificial Intelligence Algorithm Sca
 Predictive Analytics Server Response Cloud Event Sourcing Algorithm
 Machine Learning Content Delivery Network Microservices Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Version Control JavaScript Event-driven Architecture Dream big and dare to fail. Cloud Neural Networks
 Serverless Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. CI/CD Success usually comes to those who are too busy to be looking for it.
+IoT Stay hungry, stay foolish. The only way to do great work is to love what you do. NLP Success usually comes to those who are too busy to be looking for it. Python Optimization Big Data API Gateway RabbitMQ Cloud
