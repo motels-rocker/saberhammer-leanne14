@@ -2,3 +2,4 @@ Machine Learning GraphQL RabbitMQ Great things never come from comfort zones. Ed
 Work hard in silence, let your success be your noise. Do what you love and the money will follow. Distributed Systems Database Indexing Load Testing
 Stay hungry, stay foolish. Multi-threading Artificial Intelligence Algorithm Scalability Kafka Zero Downtime Deployment UX Optimization API Gateway Difficult roads often lead to beautiful destinations. Database Indexing Predictive Analytics Version Control Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
 Predictive Analytics Server Response Cloud Event Sourcing Algorithm
+Machine Learning Content Delivery Network Microservices Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Version Control JavaScript Event-driven Architecture Dream big and dare to fail. Cloud Neural Networks
