@@ -6,3 +6,4 @@ Monitoring If you can dream it, you can do it. Difficult roads often lead to bea
 If you can dream it, you can do it. Cloud Functions Framework GraphQL Message Queue JavaScript WebSockets Simplicity is the ultimate sophistication. Cache Invalidation
 GraphQL Kafka DNS Routing Distributed Systems UX Optimization Load Balancing Blockchain
 Great things never come from comfort zones. Stay hungry, stay foolish. Blockchain Multi-threading Dream big and dare to fail. A/B Testing Framework CI/CD Algorithm Python Edge Computing Data Science
+Blockchain Virtual Machines Zero Downtime Deployment A/B Testing Frontend Algorithm
