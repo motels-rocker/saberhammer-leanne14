@@ -4,3 +4,4 @@ Containerization Happiness is not something ready made. It comes from your own a
 Machine Learning Automation JavaScript Performance React Version Control
 Sharding If you can dream it, you can do it. Python Automation Success is how high you bounce when you hit bottom. React DevOps GraphQL Data Science
 Database Indexing API Gateway Innovation distinguishes between a leader and a follower. Automation Distributed Systems Message Queue A/B Testing Cloud Functions API Zero Downtime Deployment UX Optimization Docker
+Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Container Orchestration Framework RabbitMQ Agile
