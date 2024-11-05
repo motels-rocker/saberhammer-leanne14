@@ -4,3 +4,4 @@ Backend Replica Set I find that the harder I work, the more luck I seem to have.
 Neural Networks Replica Set UX Optimization Data Science Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Scalability Agile JavaScript
 Do what you love and the money will follow. Quantum Computing API Don't be afraid to give up the good to go for the great. Multi-threading
 Database Load Balancing Cache Invalidation OAuth Kubernetes Algorithm Stay hungry, stay foolish.
+Quantum Computing Parallel Processing Event-driven Architecture Simplicity is the ultimate sophistication. WebSockets Cloud Functions Python Monitoring RabbitMQ Database
