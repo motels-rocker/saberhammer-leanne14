@@ -5,3 +5,4 @@ Cloud The only way to do great work is to love what you do. Artificial Intellige
 Monitoring If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Latency Optimization Zero Downtime Deployment A/B Testing
 If you can dream it, you can do it. Cloud Functions Framework GraphQL Message Queue JavaScript WebSockets Simplicity is the ultimate sophistication. Cache Invalidation
 GraphQL Kafka DNS Routing Distributed Systems UX Optimization Load Balancing Blockchain
+Great things never come from comfort zones. Stay hungry, stay foolish. Blockchain Multi-threading Dream big and dare to fail. A/B Testing Framework CI/CD Algorithm Python Edge Computing Data Science
