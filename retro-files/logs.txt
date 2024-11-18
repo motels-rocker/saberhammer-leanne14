@@ -4,3 +4,4 @@ Machine Learning Distributed Systems Pull Request Frontend Virtual Machines Back
 Cloud The only way to do great work is to love what you do. Artificial Intelligence Dream big and dare to fail. Lambda Functions Sharding Don't be afraid to give up the good to go for the great. NLP Virtual Machines Innovation distinguishes between a leader and a follower. Blockchain
 Monitoring If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Latency Optimization Zero Downtime Deployment A/B Testing
 If you can dream it, you can do it. Cloud Functions Framework GraphQL Message Queue JavaScript WebSockets Simplicity is the ultimate sophistication. Cache Invalidation
+GraphQL Kafka DNS Routing Distributed Systems UX Optimization Load Balancing Blockchain
