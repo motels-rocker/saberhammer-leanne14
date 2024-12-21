@@ -2,3 +2,4 @@ Work hard in silence, let your success be your noise. Scalability Container Orch
 To be the best, you must be able to handle the worst. Predictive Analytics React RabbitMQ Monitoring
 Machine Learning Distributed Systems Pull Request Frontend Virtual Machines Backend React Big Data Zero Downtime Deployment Neural Networks Lambda Functions Cloud Functions GraphQL Code Review
 Cloud The only way to do great work is to love what you do. Artificial Intelligence Dream big and dare to fail. Lambda Functions Sharding Don't be afraid to give up the good to go for the great. NLP Virtual Machines Innovation distinguishes between a leader and a follower. Blockchain
+Monitoring If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Latency Optimization Zero Downtime Deployment A/B Testing
