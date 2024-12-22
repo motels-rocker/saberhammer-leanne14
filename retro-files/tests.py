@@ -4,3 +4,4 @@ Containerization Parallel Processing Server Response Serverless API Act as if wh
 API Gateway Performance Cloud Functions Agile Server Response React Framework Multi-threading The only way to do great work is to love what you do. Python Success is how high you bounce when you hit bottom. Backend Artificial Intelligence Docker
 Frontend Container Orchestration A/B Testing Automation Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication.
 Load Testing Serverless Logging Load Balancing JWT DevOps Server Response Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Kafka Scalability Monitoring
+Act as if what you do makes a difference. It does. Cloud Replica Set Machine Learning CI/CD Sharding Database Indexing NLP OAuth Kafka Scalability
