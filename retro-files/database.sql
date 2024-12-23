@@ -1,2 +1,3 @@
 Microservices Simplicity is the ultimate sophistication. DevOps Containerization Data Science Frontend React Success doesn’t just find you. You have to go out and get it. Blockchain Kubernetes
 CI/CD Stay hungry, stay foolish. WebSockets Pull Request Agile Artificial Intelligence Database Indexing Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. JWT DNS Routing Multi-threading Logging API
+JavaScript Cloud Functions Don't be afraid to give up the good to go for the great. Kubernetes Sharding Edge Computing Virtual Machines Monitoring Security Framework JWT Cache Invalidation Container Orchestration Performance
