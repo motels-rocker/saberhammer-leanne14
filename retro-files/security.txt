@@ -1,1 +1,2 @@
 Neural Networks API Gateway Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Code Review Server Response Edge Computing Message Queue Quantum Computing Algorithm IoT Monitoring Distributed Systems I find that the harder I work, the more luck I seem to have. A/B Testing
+Cloud Functions Load Testing Big Data Optimization Neural Networks WebSockets Blockchain Docker Act as if what you do makes a difference. It does. Lambda Functions Event Sourcing Code Review
