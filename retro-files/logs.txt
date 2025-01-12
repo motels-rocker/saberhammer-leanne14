@@ -1,2 +1,3 @@
 Work hard in silence, let your success be your noise. Scalability Container Orchestration Frontend Data Pipeline Replica Set DevOps Edge Computing
 To be the best, you must be able to handle the worst. Predictive Analytics React RabbitMQ Monitoring
+Machine Learning Distributed Systems Pull Request Frontend Virtual Machines Backend React Big Data Zero Downtime Deployment Neural Networks Lambda Functions Cloud Functions GraphQL Code Review
