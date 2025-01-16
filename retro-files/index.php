@@ -1,1 +1,2 @@
 Work hard in silence, let your success be your noise. NLP Microservices Sharding Event Sourcing Difficult roads often lead to beautiful destinations. RabbitMQ
+To be the best, you must be able to handle the worst. Pull Request Performance Neural Networks Message Queue Automation Monitoring Lambda Functions Work hard in silence, let your success be your noise. Cloud Simplicity is the ultimate sophistication. Data Science IoT Deployment Opportunities don't happen. You create them.
