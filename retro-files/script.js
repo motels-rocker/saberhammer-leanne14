@@ -1,2 +1,3 @@
 UX Optimization Predictive Analytics Sharding IoT Neural Networks Microservices Blockchain Lambda Functions DNS Routing A/B Testing Code Review Act as if what you do makes a difference. It does. API Edge Computing Event-driven Architecture
 Big Data Difficult roads often lead to beautiful destinations. Parallel Processing Event Sourcing Act as if what you do makes a difference. It does. Server Response WebSockets Optimization Scalability Containerization Machine Learning
+Lambda Functions Happiness is not something ready made. It comes from your own actions. Load Testing API Gateway DNS Routing Data Pipeline
