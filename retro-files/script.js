@@ -1,0 +1,1 @@
+UX Optimization Predictive Analytics Sharding IoT Neural Networks Microservices Blockchain Lambda Functions DNS Routing A/B Testing Code Review Act as if what you do makes a difference. It does. API Edge Computing Event-driven Architecture
